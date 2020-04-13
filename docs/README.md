@@ -32,3 +32,4 @@ you data analysts who would not be forced anymore to deal with technical version
  
 P.S. In our set up we are using Apache Spark with custom DataSource over some S3 compatible store. 
 
+![The original drawing...](data-catalog-drawings-1.jpg)
