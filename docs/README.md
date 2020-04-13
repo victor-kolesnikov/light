@@ -23,7 +23,7 @@ tricks the user shall do with versions in queries to see the trending data acros
 
 Now imagine that your platform has two data areas: the staging area where all versions of data are accumulated and the publishing area 
 where only one version of the data is allowed. The publishing mechanism can be implemented within the catalog - we can create a 
-virtual dataset (5) by pointing its partition to the partition associated with the version that is being published. No data 
+virtual dataset by pointing its partition to the file (5) associated with the version that is being published. No data 
 needs to be copied - we link the same file to the new dataset. The fact that the published dataset has only one partition 
 per a day makes all the possible trending queries on it very simple. Easy? I believe yes. 
 
