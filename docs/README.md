@@ -28,7 +28,7 @@ needs to be copied - we link the same file to the new dataset. The fact that the
 per a day makes all the possible trending queries on it very simple. Easy? I believe yes. 
 
 To sum up: If you can generate entries into your catalog and fabricate partitions in a form you need, if you can set up
-business processes around your data so that only one version is selected to be final, you can drastically simplify life of 
+business processes around your data so that only one version is selected to be final, you can extremely simplify life of 
 you data analysts who would not be forced anymore to deal with technical versions and can focus on others more interesting 
  aspects of data analysis. 
  
