@@ -11,7 +11,7 @@ Sure, it is not a big problem - we can say that only the latest version should b
 to be published, but I wanted to find more simple solution. And as it usually can be - the solution manifests itself 
 if you can focus out from the problem and consider different approaches.
 
-Let's me show how it can be solved in the example below:
+Let me show how it can be solved in the example below:
 
 ![Catalog Magic in a Data Lake](data-lake-catalog-magic.svg)
 
